@@ -12,4 +12,6 @@ public class ProductDTO {
     private int qty;
 
     private double price;
+
+    // Thay đổi 1
 }
